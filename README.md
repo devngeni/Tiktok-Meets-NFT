@@ -1,4 +1,4 @@
-## Tiktok-Meets-NFT
+## Tiktok Meets NFT
 
 To create an App[OnceApp] that is combined with tik tok(that seek kind of imagery) and has overlaying with menus and smart features. 
 
