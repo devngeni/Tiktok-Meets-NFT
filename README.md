@@ -17,3 +17,9 @@ The project will be in collaboration with loom in order to ensure that everythin
 - Amazon Web Services (AWS)
 ![Screenshot_2022-03-11-18-47-53-511_com ngeni onceapp](https://user-images.githubusercontent.com/81178958/162495023-58baaee8-e010-4ed9-afd6-44c71a1d1b32.jpg)
 ![Screenshot_2022-03-11-18-52-55-399_com ngeni onceapp](https://user-images.githubusercontent.com/81178958/162495032-ceb201db-3756-47f8-b600-07dd6eb0b3f4.jpg)
+
+DISCLAIMER: This is a demo codebase from our private repositories for the above project. Contact us for more information if you find this dApp of interest.
+
+Relevant Blockchains: [Ethereum]
+
+dApp Completion date: [25.10.2021]
